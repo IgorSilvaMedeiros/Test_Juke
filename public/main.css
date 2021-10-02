@@ -1,0 +1,11 @@
+h1 {
+  margin-top: 2.5rem;
+  font-size: 4rem;
+  text-align: center;
+  background: linear-gradient(to right, #ebb049, #f87046, #ad1085, #b7598b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.col-2 {
+  text-align: center;
+}
